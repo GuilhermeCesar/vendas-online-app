@@ -1,7 +1,7 @@
 module.exports = {
-  semi:true,
+  semi: true,
   trailingComma: 'all',
   singleQuote: true,
   printWidht: 100,
-  tabWidth: 2  
+  tabWidth: 2,
 };
